@@ -40,7 +40,7 @@
             </div>
         </div>
         <?php 
-                echo file_get_contents("./html/footer.html");
+                echo file_get_contents("./html/php.html");
             ?>
     </div>
 </body>
